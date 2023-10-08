@@ -4,9 +4,9 @@ export let TitleTemplate = `
 `
 
 export let URLPost = `https://gocroot-baru.herokuapp.com/insertkritik`
-export let JSONlink = 'https://raw.githubusercontent.com/HRMonitorr/Proposal-Project3/main/json/latarproposal.json'
-export let JSONTeams = 'https://raw.githubusercontent.com/HRMonitorr/Proposal-Project3/main/json/jsonharis.json'
-export let JSONrofi = 'https://raw.githubusercontent.com/HRMonitorr/Proposal-Project3/main/json/jsonrofi.json'
+export let JSONlink = 'https://raw.githubusercontent.com/WASENDERAUTO/Proposal-P3/main/json/latarproposal.json'
+export let JSONTeams = 'https://raw.githubusercontent.com/WASENDERAUTO/Proposal-P3/main/json/jsonnia.json'
+export let JSONJoss = 'https://raw.githubusercontent.com/WASENDERAUTO/Proposal-P3/main/json/jsonjoss.json'
 export let token = 'HeadTokenKritiks';
 export let CardTujuan = `<div class="has-background-white p-8" style="border-radius: 4px;">
 <div class="is-relative is-inline-block mb-8">

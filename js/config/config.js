@@ -141,14 +141,14 @@ export function Infogrpc(value) {
 }
 export function profilejoss(value) {
     let content=TeamsProfile.replace("#profile#",value.profilejoss);
-    console.log(value.profilerofi);
-    addInner("gambarrofi", content);
+    console.log(value.profilejoss);
+    addInner("gambarjoss", content);
 }
 
 export function profilenia(value) {
     let content=TeamsProfile.replace("#profile#",value.profilenia);
-    console.log(value.profilerofi);
-    addInner("gambarharis", content);
+    console.log(value.profilejoss);
+    addInner("gambarnia", content);
 }
 
 export function GetRandomImage() {
