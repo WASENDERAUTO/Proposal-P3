@@ -139,16 +139,16 @@ export function Infogrpc(value) {
     // console.log(content);
     addInner("info", content);
 }
-export function profilejosua(value) {
-    let content=TeamsProfile.replace("#profile#",value.profilejosua);
-    console.log(value.profilejosua);
-    addInner("gambarjosua", content);
+export function profilejoss(value) {
+    let content=TeamsProfile.replace("#profile#",value.profilejoss);
+    console.log(value.profilerofi);
+    addInner("gambarrofi", content);
 }
 
 export function profilenia(value) {
     let content=TeamsProfile.replace("#profile#",value.profilenia);
-    console.log(value.profilenia);
-    addInner("gambarnia", content);
+    console.log(value.profilerofi);
+    addInner("gambarharis", content);
 }
 
 export function GetRandomImage() {
@@ -178,6 +178,25 @@ export function GetRandomCounter(){
     return currentCounter;
 }
 
+export function GetDataForm(){
+            // Ambil nilai dari input nama dan textarea kritik
+            const name = document.querySelector("#name").value;
+            const critics = document.querySelector("#critic").value;
+            console.log(critics)
+    
+            // Buat objek data yang akan dikirim ke server
+            const data = {
+                name: name,
+                critics: critics
+            };
+            return data
+}
+
+export function AlertPost(value){
+    alert(value.message + "\nterima kasih sudah memberikan kritik dan sarannya")
+    window.location.reload();
+}
+
 export function responseData(result){
     IsiTitle(result);
     isiTujuan(result);
@@ -201,11 +220,15 @@ export function responseTeam(result){
   Data1Loop(result);
 }
 
-export function Responsejosua(result){
+export function ResponseJoss(result){
     Data2Loop(result);
 }
 
 export function ProfilePicture(result){
-    profilejosua(result);
+    profilejoss(result);
     profilenia(result);
+}
+
+export function ResponsePost(result) {
+    AlertPost(result);
 }
