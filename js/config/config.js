@@ -140,8 +140,8 @@ export function Infogrpc(value) {
     addInner("info", content);
 }
 export function profilejoss(value) {
-    let content=TeamsProfile.replace("#profile#",value.profilejosua);
-    console.log(value.profilejosua);
+    let content=TeamsProfile.replace("#profile#",value.profilejoss);
+    console.log(value.profilejoss);
     addInner("gambarjosua", content);
 }
 
