@@ -139,9 +139,9 @@ export function Infogrpc(value) {
     // console.log(content);
     addInner("info", content);
 }
-export function profilejoss(value) {
-    let content=TeamsProfile.replace("#profile#",value.profilejoss);
-    console.log(value.profilejoss);
+export function profilejosua(value) {
+    let content=TeamsProfile.replace("#profile#",value.profilejosua);
+    console.log(value.profilejosua);
     addInner("gambarjosua", content);
 }
 
