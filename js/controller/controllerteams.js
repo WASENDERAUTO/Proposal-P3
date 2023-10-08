@@ -3,5 +3,5 @@ import { ProfilePicture, ResponseJoss, profilejoss, responseTeam} from "../confi
 import { JSONTeams, JSONlink, JSONjoss } from "../template/template.js";
 
 get(JSONTeams, responseTeam);
-get(JSONjoss, ResponseRofi);
+get(JSONjoss, ResponseJoss);
 get(JSONlink, ProfilePicture)
