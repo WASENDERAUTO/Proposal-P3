@@ -1,0 +1,29 @@
+{
+  "title": "PROPOSAL PROYEK 3",
+  "description": "2023/2024",
+  "team": [
+    {
+      "name1": "Daslan Josua Valentino Siahaan",
+      "npm1": "1214011",
+      "email1": "greensento@gmail.com",
+      "github1": "https://github.com/jxxzyshncyberoren"
+    },
+    {
+      "name2": "Marjuniati Putri",
+      "npm2": "1214001",
+      "email2": "marjuniatiputri@gmail.com",
+      "github2": "https://github.com/marjuniatiputri"
+    }
+  ],
+
+  "isiProposal": {
+    "judulProposal": "<b> WHATSAPP SENDER </b>",
+    "deskripsi1": "Ur Smart Ecosystem (USE) adalah Aplikasi Monitoring IoT yang dibangun menggunakan JavaScript dan menggunakan protokol MQTT. Aplikasi ini memungkinkan pengguna untuk memantau dan mengendalikan jaringan perangkat Internet of Things (IoT) dengan mudah dan efisien. Aplikasi ini berfungsi sebagai pusat kontrol yang terhubung dengan berbagai perangkat elektronik yang dijalankan melalui protokol MQTT",
+    "latarBelakang1": "Internet of Things (IoT) saat ini mulai menjadi salah satu paradigma teknologi yang paling berpengaruh. IoT memungkinkan koneksi dan integrasi perangkat elektronik ke dalam jaringan yang luas dan memungkinkan berbagai aspek kehidupan kita diawasi, dikendalikan, dan dianalisis secara efisien. Ini telah mendukung perkembangan dalam berbagai industri, termasuk rumah pintar, manufaktur, kesehatan, pertanian, dan banyak lagi.",
+    "latarBelakang2": "Namun, dengan pertumbuhan pesat dalam jumlah perangkat IoT yang terhubung, ada kebutuhan yang mendesak untuk solusi manajemen yang kuat dan terpusat. Aplikasi Monitoring IoT dengan protokol MQTT muncul sebagai solusi yang relevan dan efisien dalam mengatasi tantangan ini.",
+    "latarBelakang3": "Pengembangan Aplikasi Monitoring IoT dengan JavaScript dan Protokol MQTT diharapkan meningkatkan efisiensi dan kualitas kehidupan. Diharapkan aplikasi ini akan menjadi alat yang mumpuni dalam pengelolaan perangkat IoT, memungkinkan pengguna untuk mengontrol, memantau, dan mengoptimalkan penggunaan perangkat dengan lebih baik. Kami berharap aplikasi ini akan menghasilkan penghematan energi dan sumber daya yang signifikan, berkontribusi pada pelestarian lingkungan, dan mengurangi biaya operasional.",
+    "latarBelakang4": "Selain itu, diharapkan aplikasi ini akan meningkatkan kenyamanan pengguna dan produktivitas dalam berbagai lingkungan, serta memberikan tingkat keamanan yang lebih tinggi melalui notifikasi. Manajemen yang lebih efisien, integrasi data yang lebih baik dengan platform lain, dan peningkatan kualitas hidup diharapkan menjadi hasil dari penggunaan aplikasi ini. Pada akhirnya, kami berharap aplikasi ini akan mendorong inovasi lebih lanjut dalam teknologi IoT dan aplikasi berbasis JavaScript, membuka pintu bagi berbagai aplikasi yang lebih pintar dan efisien di berbagai sektor.",
+    "waktuPelaksanakan": "",
+    "kesimpulan": ""
+  }
+}
