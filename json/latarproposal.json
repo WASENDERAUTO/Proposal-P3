@@ -3,10 +3,10 @@
   "introduction": "Dalam era digital yang semakin maju, peran teknologi informasi telah menjadi krusial dalam berbagai aspek kehidupan, termasuk dalam pengelolaan sumber daya manusia (SDM) di perusahaan. Salah satu tantangan utama dalam manajemen SDM adalah memantau kinerja dan perkembangan karier karyawan dengan efisien. Untuk mengatasi tantangan ini, banyak perusahaan telah mengadopsi aplikasi Human Resource Monitoring yang memanfaatkan teknologi untuk mengelola dan memonitor informasi terkait karyawan.  <br/> Saat ini, GitHub adalah platform terkemuka untuk mengelola dan berkolaborasi dalam pengembangan perangkat lunak. GitHub menyediakan antarmuka pemrograman aplikasi (API) yang kuat yang memungkinkan integrasi dengan berbagai aplikasi dan layanan lainnya. Dalam konteks manajemen SDM, integrasi GitHub API dapat memberikan manfaat signifikan. GitHub digunakan oleh banyak pengembang perangkat lunak untuk mengunggah kode sumber, melacak perubahan, dan berkolaborasi dalam proyek pengembangan.  <br/> Oleh karena itu, menggunakan GitHub API dalam aplikasi Human Resource Monitoring dapat memberikan wawasan yang lebih dalam tentang kontribusi dan kemampuan karyawan dalam hal pengembangan perangkat lunak.  <br/> \nSelain itu, penggunaan GitHub API akan memberikan beberapa manfaat tambahan seperti:  <br/> \n 1. Keterukuran Lebih Tinggi: Dengan GitHub API, informasi tentang kontribusi kode, proyek yang dikerjakan, dan berbagai statistik pengembangan dapat diakses dengan mudah, memberikan gambaran yang lebih jelas tentang kinerja karyawan. \n <br/>  2. Integrasi dengan Sistem Lain: Integrasi GitHub API dapat membantu dalam menggabungkan data HRM dengan sistem lain yang digunakan oleh perusahaan, seperti sistem manajemen proyek atau alat pelaporan. \n  <br/> 3. Peningkatan Kolaborasi: Memungkinkan kolaborasi yang lebih baik antara tim SDM dan tim pengembangan, memfasilitasi komunikasi yang lebih baik dan pengambilan keputusan yang berdasarkan data. \n <br/>  4. Pengembangan Keterampilan Karyawan: Dengan data yang tersedia melalui GitHub API, perusahaan dapat merancang program pelatihan yang lebih efektif sesuai dengan kebutuhan karyawan. \n  <br/> 5. Transparansi dan Akuntabilitas: Memberikan transparansi dalam hal penugasan dan pengembangan proyek, yang dapat meningkatkan rasa tanggung jawab dan akuntabilitas karyawan. \n <br/>  Dengan demikian, mengintegrasikan GitHub API ke dalam aplikasi Human Resource Monitoring adalah langkah yang strategis untuk memperkuat manajemen SDM di perusahaan, meningkatkan produktivitas, dan mendukung pertumbuhan dan inovasi berkelanjutan. Proposal ini akan menguraikan rencana implementasi, manfaat yang diharapkan, dan langkah-langkah teknis yang diperlukan untuk mencapai tujuan ini.",
   "deskripsi" : "WHATSAPP AUTOSENDER salah satu bagian penting dari sebuah perusahaan. Akan tetapi dalam sebuah perusahaan tentunya diperlukan `reward` untuk para pegawai yang bekerja sesuai dengan tupoksinya. Agar Reward yang diberikan sesuai dengan apa yang dikerjakan maka dibutuhkan sebuah aplikasi yang dapat memonitoring kinerja dan menghitung reward berdasarkan kriteria tertentu. Pada Project kali ini kami akan membuat sebuah aplikasi yang akan memonitoring kinerja seorang pegawai berdasarkan kinerja dari issue dan commit yang dilakukan oleh pegawai tersebut. Segala kebutuhan komputasi dalam aplikasi akan dibangun menggunakan Javascript, dan GO program dengan Framework Fiber.",
   "rumusan": [
-    "1. Bagaimana cara mengembangkan aplikasi WhatsApp Sender otomatis yang dapat mengirim pesan teks atau media ke banyak kontak sekaligus?",
-    "2. Apa saja potensi risiko keamanan yang terkait dengan penggunaan WhatsApp Sender?",
-    "3. agaimana cara mengidentifikasi dan mengatasi potensi masalah keamanan?",
-    "4. Bagaimana WhatsApp Sender dapat membantu perusahaan dalam komunikasi dengan pelanggan atau karyawan? Apakah ada tantangan tertentu yang perlu diatasi dalam implementasinya?"
+    "1. Bagaimana perkembangan WhatsApp Autosender sebagai alat komunikasi otomatis mempengaharui bisnis dan interaksi komunikasi digital ?",
+    "2. Bagaimana WhatsApp Autosender mempengaharui pengguna WhatsApp seccara keseluruhan? ",
+    "3. Bagaimana cara mengidentifikasi dan mengatasi potensi masalah keamanan?",
+    "4. Bagaimana WhatApp Autosender digunakan selain dari suatu intansi atau wilayah?"
   ],
   "luaran" : [
     "1. Frontend wajib di deploy di github pages dengan menggunakan konsep serverless micro frontend menggunakan Javascript ES6+.",
@@ -45,17 +45,12 @@
     ]
   },
   "manfaat" : [
-    "1. Pemantauan Kinerja yang Lebih Akurat: Aplikasi ini akan memberikan pemantauan kinerja yang lebih akurat bagi karyawan dengan menggunakan data dari GitHub API. Ini memungkinkan perusahaan untuk mengukur kontribusi karyawan dalam pengembangan perangkat lunak dengan lebih tepat.",
+    "1. Membantu dalam perkembangan bisnis dan interaksi digital dengan bantuan alat komunikasi WA Autosender.",
 
-    "2. Pengambilan Keputusan yang Lebih Baik: Dengan informasi yang lebih lengkap tentang aktivitas pengembangan karyawan, manajer SDM dapat membuat keputusan yang lebih baik terkait dengan promosi, penugasan proyek, dan pengembangan karier.",
+    "2. Mempermudah pelayaan pengguna WhatsApp secara keseluran .",
     
-    "3. Identifikasi Potensi Karyawan: Aplikasi ini membantu mengidentifikasi potensi dan keterampilan unik karyawan, memungkinkan perusahaan untuk menempatkan mereka dalam peran yang sesuai dengan bakat mereka dan mengembangkan talenta internal.",
-    
-    "4. Peningkatan Kolaborasi: Integrasi GitHub API memungkinkan tim SDM untuk berkolaborasi lebih erat dengan tim pengembangan, meningkatkan komunikasi, serta memfasilitasi pemahaman yang lebih baik tentang proyek yang sedang dikerjakan.",
-    
-    "5. Pengembangan Keterampilan: Data yang diberikan oleh GitHub API memungkinkan perusahaan merancang program pelatihan yang disesuaikan dengan kebutuhan karyawan, membantu mereka meningkatkan keterampilan pengembangan perangkat lunak.",
-    
-    "6. Transparansi dan Akuntabilitas: Aplikasi ini meningkatkan transparansi dalam penugasan proyek dan pengembangan karyawan, menghasilkan rasa tanggung jawab yang lebih tinggi dan akuntabilitas dalam tim."
+    "3. Sebagai alat yang digunakan untuk mengakomodasi wilayah tanpa perlu interaksi manual. "
+
   ],
   "infographic" : "img/infogrphic.jpg"
 }
