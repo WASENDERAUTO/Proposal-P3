@@ -147,7 +147,7 @@ export function profilejoss(value) {
 
 export function profilenia(value) {
     let content=TeamsProfile.replace("#profile#",value.profilenia);
-    console.log(value.profilejoss);
+    console.log(value.profilenia);
     addInner("gambarnia", content);
 }
 
