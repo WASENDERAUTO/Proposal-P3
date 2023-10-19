@@ -1,0 +1,12 @@
+{
+    "servicesInfo": {
+      "aboutFancypedia": {
+        "title": "About Fancypedia",
+        "description": "Selamat datang di FancyPedia, tempatnya para penggemar pemrograman menemukan gaya dengan sentuhan teknologi! Kami adalah toko pakaian yang menggabungkan kecintaan akan dunia pemrograman dengan fashion yang stylish dan nyaman. Di FancyPedia, kami percaya bahwa coding adalah seni, dan kami merayakannya melalui desain baju-baju kami yang unik dan kreatif."
+      },
+      "theme": {
+        "title": "Tema Fancypedia",
+        "description": "Dari kaos, kemeja, hingga aksesori, koleksi kami dirancang dengan detail yang menginspirasi dari dunia coding."
+      }
+    }
+  }
