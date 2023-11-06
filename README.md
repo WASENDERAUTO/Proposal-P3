@@ -12,4 +12,3 @@ Pengembangan WhatsApp Sender berbasis chatbot dengan penggunaan API dan Micro Fr
 10. Peluncuran: Setelah semuanya siap, luncurkan WhatsApp Sender Anda untuk digunakan oleh pengguna.
 11. Pemeliharaan dan Perbaikan: Terus perbarui dan perbaiki sistem Anda berdasarkan umpan balik pengguna dan perubahan dalam API WhatsApp
 Terimakasih
-.
