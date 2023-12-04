@@ -2,7 +2,7 @@ document.addEventListener("DOMContentLoaded", () => {
     const servicesInfoContainer = document.querySelector('.services-info');
 
     // Fetch data from the JSON file
-    fetch("https://raw.githubusercontent.com/WASENDERAUTO/Proposal-P3/main/filejson/about.json")
+    fetch("https://raw.githubusercontent.com/Fancypedia/fancypedia-store/main/filejson/about.json")
         .then(response => response.json())
         .then(data => {
             const aboutFancypedia = data.servicesInfo.aboutFancypedia;

@@ -1,12 +1,12 @@
 {
     "servicesInfo": {
-      "aboutFancypedia": {
-        "title": "WHATSAPP-CYBEROREN",
-        "description": "WA Sender dilengkapi dengan modul anti-block dan anti-banned yang cukup lengkap supaya dapat digunakan secara aman. Meski demikian, kami menyarankan Anda untuk tidak menggunakan nomor WhatsApp pribadi dan menggunakan nomor yang siap menerima risiko banned dari WhatsApp, apabila Anda bermaksud untuk mengirimkan pesan kepada nomor asing atau orang yang tidak berharap menerima pesan dari Anda, kecuali jika itu adalah daftar konsumen / pelanggan yang pernah berinteraksi sebelumnya dengan Anda."
+      "aboutCYBEROREN": {
+        "title": "About CYBEROREN",
+        "description": "Selamat datang di CYBEROREN, Kami adalah seorang Product Designer yang mendalami Front - End Developer | UI UX Design | Adobe Ilustrator,yang sedang mengembangkan whatsapp agar lebih menjadi lebih menarik yang bernama WAREN."
       },
       "theme": {
-        "title": "Tema Pengembangan Whatsapp",
-        "description": "Sebuah Desktop Tool Untuk Melakukan WhatsApp Marketing Dengan Fitur Yang Sangat Powerful. Ini adalah solusi WhatsApp marketing kirim pesan secara massal yang akan membantu pekerjaan Anda saat ini, sekaligus membuka peluang baru yang tak pernah Anda sangka-sangka sebelumnya."
+        "title": "WAREN",
+        "description": "Whatsapp Gateway adalah sistem pengiriman pesan massal yang memungkinkan penggunanya mengirim pesan dalam bentuk Teks, Media, dan Document ke banyak nomor secara bersamaan, dan juga pengiriman pesan dari aplikasi pihak ketiga dengan rest api. cocok untuk mengirim kode otp dari aplikasi."
       }
     }
   }
