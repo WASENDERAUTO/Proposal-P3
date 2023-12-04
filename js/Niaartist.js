@@ -1,5 +1,5 @@
 // Mendapatkan data dari file JSON menggunakan Fetch API
-fetch('https://raw.githubusercontent.com/WASENDERAUTO/Proposal-P3/main/filejson/Nia.json')
+fetch('https://raw.githubusercontent.com/WASENDERAUTO/Proposal-P3/main/filejson/nia.json')
   .then(response => response.json()) // Mengonversi respons ke JSON
   .then(data => {
     // Mengakses data artis dari objek JSON
